@@ -1,0 +1,13 @@
+nav
+{
+    border:solid;
+    height: 50px;
+    background-color:thistle
+}
+button
+{
+    width:150px;
+    height:50px; 
+    background-color: cadetblue;
+    font-size: large;
+}

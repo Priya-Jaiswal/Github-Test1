@@ -1,0 +1,10 @@
+header
+{
+    border:solid;
+    height:50px;
+    text-align: center;
+    font-size: 40px;
+    background-color: cadetblue; 
+    font-style: italic; 
+    color: crimson;
+}
